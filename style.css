@@ -55,7 +55,8 @@ body{
    left: 0;
    top: 0; 
    background-color: var(--soft-violet);
-   opacity: 55%;
+   mix-blend-mode: multiply;
+   opacity: 0.80;
 }
 .text{
     padding: 13%;    
